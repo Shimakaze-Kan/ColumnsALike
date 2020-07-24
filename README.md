@@ -13,6 +13,9 @@ When you are in the source folder, call the command:
 dotnet run
 ```
 
+## Gameplay
+![gameplay](https://user-images.githubusercontent.com/66916951/88407184-06417200-cdd2-11ea-9a2a-d23d8a203f73.gif)
+
 ## Game Manual
 The aim of the game is to control the falling column of jewels in order to get as many matches as possible.
 
@@ -61,7 +64,7 @@ Speaker mute image [license CC0](https://creativecommons.org/publicdomain/zero/1
 https://commons.wikimedia.org/wiki/File:Mute_Icon.svg
 
 Orbitron font [SIL Open Font License v1.10](https://www.fontsquirrel.com/license/Orbitron)\
-author: Matt McInerney
+author: Matt McInerney\
 https://www.fontsquirrel.com/fonts/orbitron
 
 ## License
