@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Winexe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Logic.fs" />
+    <Compile Include="Column.fs" />
+    <Compile Include="Component.fs" />
+    <Compile Include="Button.fs" />
+    <Compile Include="Controller.fs" />
+    <Compile Include="Program.fs" />
+    <None Include="Content/Content.mgcb" />
+    <Content Include="Content/**">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Content.Builder" Version="3.7.0.9" />
+    <PackageReference Include="MonoGame.Framework.DesktopGL.Core" Version="3.7.0.7" />
+    <PackageReference Include="NSubsys" Version="0.7.0-build20180604-0047" />
+  </ItemGroup>
+</Project>
