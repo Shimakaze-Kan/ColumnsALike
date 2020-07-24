@@ -41,23 +41,23 @@ To pause the game, press the space bar.
 ## Resources
 All resources are in their original form and as .xnb files
 
-Background image [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
+Background image [license CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
 author: SethByrd\
 https://opengameart.org/content/starry-night-background
 
-Gems image [licence CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)\
+Gems image [license CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)\
 author: Ville Seppanen\
 https://opengameart.org/content/gem-jewel-diamond-glass
 
 
-Glass break sound effect [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
+Glass break sound effect [license CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
 author: Till Behrend\
 https://opengameart.org/content/glass-break
 
-Speaker image [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
+Speaker image [license CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
 https://en.wikipedia.org/wiki/File:Speaker_Icon.svg
 
-Speaker mute image [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
+Speaker mute image [license CC0](https://creativecommons.org/publicdomain/zero/1.0/)\
 https://commons.wikimedia.org/wiki/File:Mute_Icon.svg
 
 Orbitron font [SIL Open Font License v1.10](https://www.fontsquirrel.com/license/Orbitron)\
@@ -65,4 +65,4 @@ author: Matt McInerney
 https://www.fontsquirrel.com/fonts/orbitron
 
 ## License
-Source code licence: [MIT](https://choosealicense.com/licenses/mit/)
+Source code license: [MIT](https://choosealicense.com/licenses/mit/)
